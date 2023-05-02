@@ -1,1 +1,2 @@
 git clone --single-branch --branch <branchname> <remote-repo>  to fetch particular remote branch
+git diff <locasl branch> <origin/main>
